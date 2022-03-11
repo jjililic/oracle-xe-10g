@@ -52,3 +52,8 @@ Login to web administrator on a browser:
 ```
 http://localhost:49162/apex
 ```
+
+#
+```
+docker build -t jjililic/oracle-10g-xe_ko16ksc5601 .
+```
